@@ -4,3 +4,5 @@ Este site foi criado para auxiliar na comunicação com minha equipe de farmacê
 Como nem sempre temos contato presencial, a plataforma serve para informar sobre erros 
 no registro de receitas de medicamentos controlados, além de facilitar a troca de informações 
 e a organização de tarefas entre a equipe.
+
+Eu precisava de algo simples e funcional, foi uma ótima forma de solucinar meu problema.
